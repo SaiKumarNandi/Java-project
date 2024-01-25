@@ -2,22 +2,6 @@ package arrayLists;
 import java.util.ArrayList;
 public class arrayListTraversal {
 
-    /*public static void main(String[] args) {
-        // Create an ArrayList of Strings
-        ArrayList<String> stringList = new ArrayList<>();
-        stringList.add("string1");
-        stringList.add("string2");
-        stringList.add("string3");
-        stringList.add("string4");
-
-        // Traverse using a regular for loop
-        traverseArrayListUsingRegularForLoop(stringList);
-
-
-        // Traverse using an enhanced for loop
-        traverseArrayListUsingEnhancedForLoop(stringList);
-    }*/
-
     public static ArrayList<String> traverseArrayListUsingEnhancedForLoop() {
         ArrayList<String> stringList = new ArrayList<>();
         stringList.add("string1");

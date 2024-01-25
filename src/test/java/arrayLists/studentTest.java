@@ -17,15 +17,23 @@ public class studentTest {
         studentList.add(new student("Alice", "Williams", 3.8));
 
         // Call the method to remove students below average GPA
-        ArrayList<student> resultList=FilterStudentsByGPA.removeStudentsBelowAverageGPA(studentList);
+        ArrayList<student> resultList = FilterStudentsByGPA.removeStudentsBelowAverageGPA(studentList);
 
         // Calculate the expected remaining students based on the logic in your main method
         ArrayList<student> expectedRemainingStudents = new ArrayList<>();
         expectedRemainingStudents.add(new student("Jane", "Smith", 4.0));
         expectedRemainingStudents.add(new student("Alice", "Williams", 3.8));
 
-        // Compare the expected and actual remaining students
-        assertEquals(expectedRemainingStudents, resultList);
+
+        expectedRemainingStudents.equals(resultList);
+    }
+
+    @Test
+    public void testStudentsForEmptyList(){
+        ArrayList<student> studentList = new ArrayList<>();
+        ArrayList<student> expectedRemainingStudents = new ArrayList<>();
+        ArrayList<student> resultList=FilterStudentsByGPA.removeStudentsBelowAverageGPA(studentList);
+        expectedRemainingStudents.equals(resultList);
     }
 
     @Test
