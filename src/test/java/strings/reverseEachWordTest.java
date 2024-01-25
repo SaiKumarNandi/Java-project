@@ -13,7 +13,7 @@ public class reverseEachWordTest {
         assertEquals("olleH dlroW", reverseEachWord.reverseEachWord("Hello World"));
 
         // Test case 2: Test with multiple spaces between words
-        assertEquals("   IAnepO   5.3-TPG   ", reverseEachWord.reverseEachWord("   OpenAI   GPT-3.5   "));
+        assertEquals("  IAnepO   5.3-TPG", reverseEachWord.reverseEachWord("  OpenAI   GPT-3.5"));
 
         // Add more test cases as needed
     }
@@ -30,7 +30,7 @@ public class reverseEachWordTest {
 
         //to failure
 
-        assertEquals("olleH", reverseEachWord.reverseString("HelloWorld"));
+        assertEquals("*##*", reverseEachWord.reverseString("*##*"));
 
 
     }

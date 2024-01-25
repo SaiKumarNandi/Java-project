@@ -8,6 +8,7 @@ public class reverseEachWord {
         // Reverse each word
         for (int i = 0; i < words.length; i++) {
             words[i] = reverseString(words[i]);
+
         }
 
         // Join the reversed words back into a sentence

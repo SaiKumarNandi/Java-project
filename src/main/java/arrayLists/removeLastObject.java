@@ -1,7 +1,7 @@
 package arrayLists;
 import java.util.ArrayList;
 public class removeLastObject {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         // Create an ArrayList of Objects
         ArrayList<Object> objectList = new ArrayList<>();
         objectList.add("Apple");
@@ -17,13 +17,14 @@ public class removeLastObject {
 
         System.out.println("\nArrayList after removing the last object:");
         System.out.println(objectList);
-    }
+    }*/
 
-    private static void removeLastObject(ArrayList<Object> list) {
+    public static ArrayList<Object> removeLastObject(ArrayList<Object> list) {
         // Check if the list is not empty before removing
         if (!list.isEmpty()) {
             list.remove(list.size() - 1);
         }
 
+        return list;
     }
 }

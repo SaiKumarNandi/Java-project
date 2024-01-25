@@ -1,7 +1,7 @@
 package arrayLists;
 import java.util.ArrayList;
 public class arrayListToArray {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         // Create an ArrayList of Strings
         ArrayList<String> stringList = new ArrayList<>();
         stringList.add("Apple");
@@ -15,9 +15,9 @@ public class arrayListToArray {
         for (String element : stringArray) {
             System.out.println(element);
         }
-    }
+    }*/
 
-    private static String[] convertArrayListToArray(ArrayList<String> list) {
+    public static String[] convertArrayListToArray(ArrayList<String> list) {
         // Create a new array of Strings with the same size as the ArrayList
         String[] array = new String[list.size()];
         // Copy elements from ArrayList to the array
