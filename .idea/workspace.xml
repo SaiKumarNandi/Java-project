@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc76a63f-f13b-4bb4-b838-560d0376a1f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapList/characterCountMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapList/findTargetSumMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapList/studentHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/setLists/hashSetIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/setLists/removeDuplicateChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapList/characterCountMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapList/findTargetSumMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mapList/studentHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/setLists/hashSetIterationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/setLists/removeDuplicateCharTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrayLists/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrayLists/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arrayLists/FilterStudentsByGPA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrayLists/FilterStudentsByGPA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arrayLists/student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrayLists/student.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bPo03I6571i8rVaxmnROT8O5Cw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FilterStudentsByGPA.executor": "Run",
+    "Application.anagramStrings.executor": "Run",
+    "Application.arrayListToArray.executor": "Run",
+    "Application.arrayListTraversal.executor": "Run",
+    "Application.findTargetSumMap.executor": "Run",
+    "Application.hashSetIteration.executor": "Run",
+    "Application.removeLastObject.executor": "Run",
+    "Application.reverseEachWord.executor": "Run",
+    "Application.rotateArrayLeft.executor": "Run",
+    "Application.studentHashMap.executor": "Run",
+    "JUnit.FilterStudentsByGPATest.executor": "Run",
+    "JUnit.FilterStudentsByGPATest.testRemoveStudentsBelowAverageGPA.executor": "Run",
+    "JUnit.anagramStringsTest.executor": "Run",
+    "JUnit.anagramStringsTest.testAreAnagrams.executor": "Coverage",
+    "JUnit.arrayListToArrayTest.executor": "Coverage",
+    "JUnit.arrayListToArrayTest.testConvertArrayListToArray.executor": "Coverage",
+    "JUnit.arrayListTraversalTest (1).executor": "Run",
+    "JUnit.arrayListTraversalTest.executor": "Coverage",
+    "JUnit.arrayListTraversalTest.testArrayListTraversal.executor": "Run",
+    "JUnit.arrayListTraversalTest.testTraverseArrayListUsingEnhancedForLoop.executor": "Run",
+    "JUnit.arrayListTraversalTest.testTraverseArrayListUsingRegularForLoop.executor": "Run",
+    "JUnit.characterCountMapTest.executor": "Run",
+    "JUnit.characterCountMapTest.testCountingMap.executor": "Run",
+    "JUnit.characterCountMapTest.teststringCountingMap.executor": "Run",
+    "JUnit.findTargetSumMapTest.executor": "Run",
+    "JUnit.findTargetSumMapTest.testfindTargetforDuplicateValus.executor": "Run",
+    "JUnit.findTargetSumMapTest.testfindTargetfornoSol.executor": "Run",
+    "JUnit.hashSetIterationTest.executor": "Run",
+    "JUnit.hashSetIterationTest.testSetIterations.executor": "Run",
+    "JUnit.removeDuplicateCharTest.executor": "Run",
+    "JUnit.removeDuplicateCharTest.testRemoveDuplicateCasestring.executor": "Run",
+    "JUnit.removeDuplicateCharTest.testRemoveDuplicateString.executor": "Run",
+    "JUnit.removeDuplicateCharTest.testRemoveDuplicateemptystring.executor": "Run",
+    "JUnit.removeLastObjectTest.executor": "Coverage",
+    "JUnit.removeLastObjectTest.testRemoveLastObjectEmptyList.executor": "Run",
+    "JUnit.reverseEachWordTest.executor": "Run",
+    "JUnit.reverseEachWordTest.testReverseEachWord.executor": "Run",
+    "JUnit.reverseEachWordTest.testReverseString.executor": "Run",
+    "JUnit.rotationOfStringTest.executor": "Coverage",
+    "JUnit.rotationOfStringTest.testIsRotation.executor": "Run",
+    "JUnit.studentHashMapTest.executor": "Run",
+    "JUnit.studentHashMapTest.testgetStudentByName.executor": "Run",
+    "JUnit.studentTest.executor": "Coverage",
+    "JUnit.studentTest.testRemoveStudentsBelowAverageGPA.executor": "Run",
+    "JUnit.studentTest.testStudentsForEmptyList.executor": "Run",
+    "JUnit.vowelCountTest.executor": "Run",
+    "JUnit.vowelCountTest.testVowelsCount.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nandi/OneDrive/Desktop/Marketing/Java/Maven_Src",
+    "settings.editor.selected.configurable": "configurable.group.build"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nandi\OneDrive\Desktop\Marketing\Java\Maven_Src\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.removeDuplicateCharTest">
+    <configuration name="hashSetIterationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="setLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="setLists" />
+      <option name="MAIN_CLASS_NAME" value="setLists.hashSetIterationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeDuplicateCharTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="setLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="setLists" />
+      <option name="MAIN_CLASS_NAME" value="setLists.removeDuplicateCharTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeDuplicateCharTest.testRemoveDuplicateCasestring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="setLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="setLists" />
+      <option name="MAIN_CLASS_NAME" value="setLists.removeDuplicateCharTest" />
+      <option name="METHOD_NAME" value="testRemoveDuplicateCasestring" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeDuplicateCharTest.testRemoveDuplicateString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="setLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="setLists" />
+      <option name="MAIN_CLASS_NAME" value="setLists.removeDuplicateCharTest" />
+      <option name="METHOD_NAME" value="testRemoveDuplicateString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeDuplicateCharTest.testRemoveDuplicateemptystring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="setLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="setLists" />
+      <option name="MAIN_CLASS_NAME" value="setLists.removeDuplicateCharTest" />
+      <option name="METHOD_NAME" value="testRemoveDuplicateemptystring" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.removeDuplicateCharTest" />
+        <item itemvalue="JUnit.removeDuplicateCharTest.testRemoveDuplicateCasestring" />
+        <item itemvalue="JUnit.removeDuplicateCharTest.testRemoveDuplicateemptystring" />
+        <item itemvalue="JUnit.removeDuplicateCharTest.testRemoveDuplicateString" />
+        <item itemvalue="JUnit.hashSetIterationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc76a63f-f13b-4bb4-b838-560d0376a1f8" name="Changes" comment="" />
+      <created>1706125848681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706125848681</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/strings/anagramStringsTest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Maven_Src$FilterStudentsByGPA.ic" NAME="FilterStudentsByGPA Coverage Results" MODIFIED="1706136650508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arrayLists.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Maven_Src$anagramStringsTest_testAreAnagrams.ic" NAME="anagramStringsTest.testAreAnagrams Coverage Results" MODIFIED="1706136719126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>strings.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Maven_Src$reverseEachWordTest.ic" NAME="reverseEachWordTest Coverage Results" MODIFIED="1706137006983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>strings.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Maven_Src$rotationOfStringTest.ic" NAME="rotationOfStringTest Coverage Results" MODIFIED="1706138288114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>strings.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Maven_Src$anagramStringsTest.ic" NAME="anagramStringsTest Coverage Results" MODIFIED="1706136896487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>strings.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Maven_Src$arrayListToArrayTest_testConvertArrayListToArray.ic" NAME="arrayListToArrayTest.testConvertArrayListToArray Coverage Results" MODIFIED="1706202057253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arrayLists.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Maven_Src$arrayListTraversalTest.ic" NAME="arrayListTraversalTest Coverage Results" MODIFIED="1706204539112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arrayLists.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Maven_Src$removeLastObjectTest.ic" NAME="removeLastObjectTest Coverage Results" MODIFIED="1706204641353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arrayLists.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Maven_Src$studentTest.ic" NAME="studentTest Coverage Results" MODIFIED="1706204602109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arrayLists.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Maven_Src$arrayListToArrayTest.ic" NAME="arrayListToArrayTest Coverage Results" MODIFIED="1706204578293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arrayLists.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -11,6 +11,18 @@ public class student {
         this.lastName = lastName;
         this.GPA = GPA;
     }
+    // Getter methods for attributes
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public double getGpa() {
+        return GPA;
+    }
 }
 
 
