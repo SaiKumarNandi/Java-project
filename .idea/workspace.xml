@@ -5,19 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc76a63f-f13b-4bb4-b838-560d0376a1f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/mapList/characterCountMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mapList/findTargetSumMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mapList/studentHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/setLists/hashSetIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/setLists/removeDuplicateChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mapList/characterCountMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mapList/findTargetSumMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mapList/studentHashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/setLists/hashSetIterationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/setLists/removeDuplicateCharTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrayLists/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrayLists/student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrayLists/FilterStudentsByGPA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrayLists/FilterStudentsByGPA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrayLists/student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrayLists/student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/additionalProg/findFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/additionalProg/palindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/additionalProg/palindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/additionalProg/repeatedChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/additionalProg/repeatedDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/additionalProg/swapTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/additionalProg/uniqueWordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/additionalProg/findFactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/additionalProg/palindromeCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/additionalProg/palindromeStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/additionalProg/repeatedCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/additionalProg/swapTwoNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/additionalProg/uniqueWordCountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,17 +69,25 @@
     "JUnit.characterCountMapTest.executor": "Run",
     "JUnit.characterCountMapTest.testCountingMap.executor": "Run",
     "JUnit.characterCountMapTest.teststringCountingMap.executor": "Run",
+    "JUnit.findFactorialTest.executor": "Run",
+    "JUnit.findFactorialTest.testFactorialForNumber.executor": "Run",
     "JUnit.findTargetSumMapTest.executor": "Run",
     "JUnit.findTargetSumMapTest.testfindTargetforDuplicateValus.executor": "Run",
     "JUnit.findTargetSumMapTest.testfindTargetfornoSol.executor": "Run",
     "JUnit.hashSetIterationTest.executor": "Run",
     "JUnit.hashSetIterationTest.testSetIterations.executor": "Run",
+    "JUnit.palindromeCheckerTest.executor": "Run",
+    "JUnit.palindromeStringTest.testPalindromeString.executor": "Run",
     "JUnit.removeDuplicateCharTest.executor": "Run",
     "JUnit.removeDuplicateCharTest.testRemoveDuplicateCasestring.executor": "Run",
     "JUnit.removeDuplicateCharTest.testRemoveDuplicateString.executor": "Run",
     "JUnit.removeDuplicateCharTest.testRemoveDuplicateemptystring.executor": "Run",
     "JUnit.removeLastObjectTest.executor": "Coverage",
     "JUnit.removeLastObjectTest.testRemoveLastObjectEmptyList.executor": "Run",
+    "JUnit.repeatedCharTest.executor": "Run",
+    "JUnit.repeatedCharTest.testNoChar.executor": "Run",
+    "JUnit.repeatedCharTest.testNoRepeatedChar.executor": "Run",
+    "JUnit.repeatedCharTest.testRepeatedChar.executor": "Run",
     "JUnit.reverseEachWordTest.executor": "Run",
     "JUnit.reverseEachWordTest.testReverseEachWord.executor": "Run",
     "JUnit.reverseEachWordTest.testReverseString.executor": "Run",
@@ -89,6 +98,9 @@
     "JUnit.studentTest.executor": "Coverage",
     "JUnit.studentTest.testRemoveStudentsBelowAverageGPA.executor": "Run",
     "JUnit.studentTest.testStudentsForEmptyList.executor": "Run",
+    "JUnit.swapTwoNumbersTest.executor": "Run",
+    "JUnit.swapTwoNumbersTest.testTwoNumbers.executor": "Run",
+    "JUnit.uniqueWordCountTest.testUniqueCount.executor": "Run",
     "JUnit.vowelCountTest.executor": "Run",
     "JUnit.vowelCountTest.testVowelsCount.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -105,80 +117,81 @@
       <recent name="C:\Users\nandi\OneDrive\Desktop\Marketing\Java\Maven_Src\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.removeDuplicateCharTest">
-    <configuration name="hashSetIterationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="palindromeStringTest.testPalindromeString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="setLists.*" />
+          <option name="PATTERN" value="additionalProg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="setLists" />
-      <option name="MAIN_CLASS_NAME" value="setLists.hashSetIterationTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="removeDuplicateCharTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Maven_Src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="setLists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="setLists" />
-      <option name="MAIN_CLASS_NAME" value="setLists.removeDuplicateCharTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="removeDuplicateCharTest.testRemoveDuplicateCasestring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Maven_Src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="setLists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="setLists" />
-      <option name="MAIN_CLASS_NAME" value="setLists.removeDuplicateCharTest" />
-      <option name="METHOD_NAME" value="testRemoveDuplicateCasestring" />
+      <option name="PACKAGE_NAME" value="additionalProg" />
+      <option name="MAIN_CLASS_NAME" value="additionalProg.palindromeStringTest" />
+      <option name="METHOD_NAME" value="testPalindromeString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeDuplicateCharTest.testRemoveDuplicateString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="repeatedCharTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="setLists.*" />
+          <option name="PATTERN" value="additionalProg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="setLists" />
-      <option name="MAIN_CLASS_NAME" value="setLists.removeDuplicateCharTest" />
-      <option name="METHOD_NAME" value="testRemoveDuplicateString" />
+      <option name="PACKAGE_NAME" value="additionalProg" />
+      <option name="MAIN_CLASS_NAME" value="additionalProg.repeatedCharTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="repeatedCharTest.testNoChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="additionalProg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="additionalProg" />
+      <option name="MAIN_CLASS_NAME" value="additionalProg.repeatedCharTest" />
+      <option name="METHOD_NAME" value="testNoChar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeDuplicateCharTest.testRemoveDuplicateemptystring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="repeatedCharTest.testRepeatedChar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="setLists.*" />
+          <option name="PATTERN" value="additionalProg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="setLists" />
-      <option name="MAIN_CLASS_NAME" value="setLists.removeDuplicateCharTest" />
-      <option name="METHOD_NAME" value="testRemoveDuplicateemptystring" />
+      <option name="PACKAGE_NAME" value="additionalProg" />
+      <option name="MAIN_CLASS_NAME" value="additionalProg.repeatedCharTest" />
+      <option name="METHOD_NAME" value="testRepeatedChar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uniqueWordCountTest.testUniqueCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="additionalProg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="additionalProg" />
+      <option name="MAIN_CLASS_NAME" value="additionalProg.uniqueWordCountTest" />
+      <option name="METHOD_NAME" value="testUniqueCount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -186,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.removeDuplicateCharTest" />
-        <item itemvalue="JUnit.removeDuplicateCharTest.testRemoveDuplicateCasestring" />
-        <item itemvalue="JUnit.removeDuplicateCharTest.testRemoveDuplicateemptystring" />
-        <item itemvalue="JUnit.removeDuplicateCharTest.testRemoveDuplicateString" />
-        <item itemvalue="JUnit.hashSetIterationTest" />
+        <item itemvalue="JUnit.palindromeStringTest.testPalindromeString" />
+        <item itemvalue="JUnit.uniqueWordCountTest.testUniqueCount" />
+        <item itemvalue="JUnit.repeatedCharTest" />
+        <item itemvalue="JUnit.repeatedCharTest.testNoChar" />
+        <item itemvalue="JUnit.repeatedCharTest.testRepeatedChar" />
       </list>
     </recent_temporary>
   </component>
