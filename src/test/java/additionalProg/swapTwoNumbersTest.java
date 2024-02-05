@@ -12,8 +12,8 @@ public class swapTwoNumbersTest {
         int number1=10;
         int number2=5;
         swapTwoNumbers.swapTwoNumberwithoutExtraVariable(number1,number2);
-        assertEquals(5,number1);
-        assertEquals(10,number2);
+        assertEquals(5,number2);
+        assertEquals(10,number1);
     }
 
 }
