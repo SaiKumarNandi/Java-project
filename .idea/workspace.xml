@@ -5,111 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc76a63f-f13b-4bb4-b838-560d0376a1f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/additionalProg/arraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/additionalProg/reverseArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/additionalProg/sortHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/additionalProg/swapCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/CapitalizeAndSortStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsContainingVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/additionalProg/arraySumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/additionalProg/repeatedDigitsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/additionalProg/reverseArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/additionalProg/sortHashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/additionalProg/swapCaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/CapitalizeAndSortStringsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/additionalProg/arraySum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/additionalProg/reverseArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/additionalProg/sortHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/additionalProg/swapCase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/streamsAndLamdas/CapitalizeAndSortStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/streamsAndLamdas/StringsContainingVowels.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/additionalProg/arraySumTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/additionalProg/repeatedDigitsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/additionalProg/reverseArrayListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/additionalProg/sortHashMapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/additionalProg/swapCaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/streamsAndLamdas/CapitalizeAndSortStringsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/execptions/ConvertStringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/execptions/ConvertStringToIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/StringsContainingVowelsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/additionalProg/repeatedDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/additionalProg/repeatedDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/additionalProg/swapTwoNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/additionalProg/swapTwoNumbersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/additionalProg/findFactorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/additionalProg/findFactorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/additionalProg/palindromeChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/additionalProg/palindromeChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/additionalProg/palindromeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/additionalProg/palindromeString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/additionalProg/repeatedChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/additionalProg/repeatedChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/additionalProg/repeatedDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/additionalProg/repeatedDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/additionalProg/swapTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/additionalProg/swapTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/additionalProg/uniqueWordCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/additionalProg/uniqueWordCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrayLists/FilterStudentsByGPA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrayLists/FilterStudentsByGPA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrayLists/arrayListToArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrayLists/arrayListToArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrayLists/arrayListTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrayLists/arrayListTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrayLists/removeLastObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrayLists/removeLastObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrayLists/student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrayLists/student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrays/binarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/binarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrays/bubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/bubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrays/displayArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/displayArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrays/minMaxNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/minMaxNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrays/moveZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/moveZeros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrays/readArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/readArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrays/reverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/reverseArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrays/reversingarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/reversingarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrays/rotateArrayLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/rotateArrayLeft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constructor_static_final/ChildClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructor_static_final/ChildClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constructor_static_final/Final/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructor_static_final/Final/Department.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constructor_static_final/Final/Departmnt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructor_static_final/Final/Departmnt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constructor_static_final/Final/FinalClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructor_static_final/Final/FinalClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constructor_static_final/Final/SubDepartmnt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructor_static_final/Final/SubDepartmnt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constructor_static_final/ParentClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructor_static_final/ParentClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constructor_static_final/staticvar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructor_static_final/staticvar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/loopsconditionss/AgeClassifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/loopsconditionss/AgeClassifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/loopsconditionss/FibonacciSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/loopsconditionss/FibonacciSeries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/loopsconditionss/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/loopsconditionss/FizzBuzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/loopsconditionss/OutputPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/loopsconditionss/OutputPattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/loopsconditionss/printReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/loopsconditionss/printReverseNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapList/characterCountMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapList/characterCountMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapList/findTargetSumMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapList/findTargetSumMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapList/studentHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapList/studentHashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectarrays/movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/objectarrays/movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectarrays/person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/objectarrays/person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectarrays/product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/objectarrays/product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oops/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oops/Department.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oops/Departmnt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oops/Departmnt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oops/Polymorphysim.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oops/Polymorphysim.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oops/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oops/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oops/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oops/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oops/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oops/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oops/SubDepartmnt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oops/SubDepartmnt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oops/shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/oops/shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/setLists/hashSetIteration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/setLists/hashSetIteration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/setLists/removeDuplicateChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/setLists/removeDuplicateChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strings/anagramStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strings/anagramStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strings/readString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strings/readString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strings/reverseEachWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strings/reverseEachWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strings/rotationOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strings/rotationOfString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/strings/vowelCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strings/vowelCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/additionalProg/findFactorialTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/additionalProg/findFactorialTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/additionalProg/palindromeCheckerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/additionalProg/palindromeCheckerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/additionalProg/palindromeStringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/additionalProg/palindromeStringTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/additionalProg/repeatedCharTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/additionalProg/repeatedCharTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/additionalProg/swapTwoNumbersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/additionalProg/swapTwoNumbersTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/additionalProg/uniqueWordCountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/additionalProg/uniqueWordCountTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayLists/arrayListToArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/arrayLists/arrayListToArrayTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayLists/arrayListTraversalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/arrayLists/arrayListTraversalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayLists/removeLastObjectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/arrayLists/removeLastObjectTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/arrayLists/studentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/arrayLists/studentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mapList/characterCountMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mapList/characterCountMapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mapList/findTargetSumMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mapList/findTargetSumMapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mapList/studentHashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mapList/studentHashMapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/setLists/hashSetIterationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/setLists/hashSetIterationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/setLists/removeDuplicateCharTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/setLists/removeDuplicateCharTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/strings/anagramStringsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/strings/anagramStringsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/strings/reverseEachWordTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/strings/reverseEachWordTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/strings/rotationOfStringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/strings/rotationOfStringTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/strings/vowelCountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/strings/vowelCountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsContainingVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsContainingVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/streamsAndLamdas/StringsContainingVowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/streamsAndLamdas/StringsContainingVowels.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,8 +49,11 @@
     "Application.rotateArrayLeft.executor": "Run",
     "Application.studentHashMap.executor": "Run",
     "JUnit.CapitalizeAndSortStringsTest.executor": "Run",
+    "JUnit.ConvertStringToIntegerTest.executor": "Run",
+    "JUnit.ConvertStringToIntegerTest.testConvertToIntAlphaNumericInput.executor": "Run",
     "JUnit.FilterStudentsByGPATest.executor": "Run",
     "JUnit.FilterStudentsByGPATest.testRemoveStudentsBelowAverageGPA.executor": "Run",
+    "JUnit.StringsContainingVowelsTest.executor": "Run",
     "JUnit.additionalProg in Maven_Src.executor": "Run",
     "JUnit.anagramStringsTest.executor": "Run",
     "JUnit.anagramStringsTest.testAreAnagrams.executor": "Coverage",
@@ -218,57 +122,57 @@
       <recent name="C:\Users\nandi\OneDrive\Desktop\Marketing\Java\Maven_Src\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.additionalProg in Maven_Src">
-    <configuration name="additionalProg in Maven_Src" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Maven_Src" />
-      <option name="TEST_OBJECT" value="directory" />
-      <dir value="$PROJECT_DIR$/src/test/java/additionalProg" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="arraySumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ConvertStringToIntegerTest">
+    <configuration name="ConvertStringToIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="additionalProg.*" />
+          <option name="PATTERN" value="execptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="additionalProg" />
-      <option name="MAIN_CLASS_NAME" value="additionalProg.arraySumTest" />
+      <option name="PACKAGE_NAME" value="execptions" />
+      <option name="MAIN_CLASS_NAME" value="execptions.ConvertStringToIntegerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraySumTest.testCalculateSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConvertStringToIntegerTest.testConvertToIntAlphaNumericInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="additionalProg.*" />
+          <option name="PATTERN" value="execptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="additionalProg" />
-      <option name="MAIN_CLASS_NAME" value="additionalProg.arraySumTest" />
-      <option name="METHOD_NAME" value="testCalculateSum" />
+      <option name="PACKAGE_NAME" value="execptions" />
+      <option name="MAIN_CLASS_NAME" value="execptions.ConvertStringToIntegerTest" />
+      <option name="METHOD_NAME" value="testConvertToIntAlphaNumericInput" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sortHashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringsContainingVowelsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="additionalProg.*" />
+          <option name="PATTERN" value="streamsAndLamdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="additionalProg" />
-      <option name="MAIN_CLASS_NAME" value="additionalProg.sortHashMapTest" />
+      <option name="PACKAGE_NAME" value="streamsAndLamdas" />
+      <option name="MAIN_CLASS_NAME" value="streamsAndLamdas.StringsContainingVowelsTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="additionalProg in Maven_Src" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Src" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/additionalProg" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -290,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConvertStringToIntegerTest" />
+        <item itemvalue="JUnit.ConvertStringToIntegerTest.testConvertToIntAlphaNumericInput" />
+        <item itemvalue="JUnit.StringsContainingVowelsTest" />
         <item itemvalue="JUnit.additionalProg in Maven_Src" />
         <item itemvalue="JUnit.swapCaseTest" />
-        <item itemvalue="JUnit.arraySumTest" />
-        <item itemvalue="JUnit.arraySumTest.testCalculateSum" />
-        <item itemvalue="JUnit.sortHashMapTest" />
       </list>
     </recent_temporary>
   </component>
