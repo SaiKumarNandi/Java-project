@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc76a63f-f13b-4bb4-b838-560d0376a1f8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/CapitalizeAndSortStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/CapitalizeAndSortStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/MaxStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/MaxStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsContainingVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsContainingVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsStartWithA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsStartWithA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/StringsStartWithATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/StringsStartWithATest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,23 +168,7 @@
       <recent name="C:\Users\nandi\OneDrive\Desktop\Marketing\Java\Maven_Src\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MathOperationsTest">
-    <configuration name="CapitalizeAndSortStringsTest.testCapitalizeAndSortStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Maven_Src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streamsAndLamdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="streamsAndLamdas" />
-      <option name="MAIN_CLASS_NAME" value="streamsAndLamdas.CapitalizeAndSortStringsTest" />
-      <option name="METHOD_NAME" value="testCapitalizeAndSortStrings" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.StringsStartWithATest">
     <configuration name="CapitalizeAndSortStringsTest.testCapitalizeAndSortStringsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Src" />
       <extension name="coverage">
@@ -248,13 +232,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringsStartWithATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamsAndLamdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="streamsAndLamdas" />
+      <option name="MAIN_CLASS_NAME" value="streamsAndLamdas.StringsStartWithATest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringsStartWithATest" />
         <item itemvalue="JUnit.MathOperationsTest" />
         <item itemvalue="JUnit.MathOperationsTest.testSumOfNegNum" />
         <item itemvalue="JUnit.MathOperationsTest.testSumOfArray" />
         <item itemvalue="JUnit.CapitalizeAndSortStringsTest.testCapitalizeAndSortStringsEmpty" />
-        <item itemvalue="JUnit.CapitalizeAndSortStringsTest.testCapitalizeAndSortStrings" />
       </list>
     </recent_temporary>
   </component>

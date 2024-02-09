@@ -9,7 +9,7 @@ public class StringsStartWithA {
         Predicate<String> startsWithA = str -> str.startsWith("A");
 
         return strings.stream()
-                .filter(startsWithA.negate())
+                .filter(startsWithA)
                 .collect(Collectors.toList());
     }
 }
