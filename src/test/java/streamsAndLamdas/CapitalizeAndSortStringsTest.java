@@ -8,13 +8,20 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class CapitalizeAndSortStringsTest {
     @Test
     public void testCapitalizeAndSortStrings() {
-        // Arrange
-        String[] inputArray = {"apple", "banana", "orange", "grape"};
 
-        // Act
+        String[] inputArray = {"kjhugf", "tfgfhg", "kjgvh", "nbgfcgv"};
         List<String> result = CapitalizeAndSortStrings.capitalizeAndSortStrings(inputArray);
+        assertEquals(Arrays.asList("Kjgvh", "Kjhugf", "Nbgfcgv", "Tfgfhg"), result);
+    }
 
-        // Assert
-        assertEquals(Arrays.asList("Apple", "Banana", "Grape", "Orange"), result);
+
+
+
+    @Test
+    public void testCapitalizeAndSortStringsEmpty() {
+
+        String[] inputArray = {};
+        List<String> result = CapitalizeAndSortStrings.capitalizeAndSortStrings(inputArray);
+        assertEquals(Arrays.asList(), result);
     }
 }

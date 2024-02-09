@@ -5,12 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc76a63f-f13b-4bb4-b838-560d0376a1f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/execptions/ConvertStringToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/execptions/ConvertStringToIntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/StringsContainingVowelsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/customExceptions/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/customExceptions/FilereaderEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/customExceptions/InsufficientFundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/customExceptions/InvalidWithdrawalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/customExceptions/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/AverageOfOddSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/MathOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/MaxStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/SortingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsByLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsStartWithA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/SumOfAllPosNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/evenNumbersSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/customExceptions/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/AverageOfOddSquaresTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/MathOperationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/MaxStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/RemoveDuplicateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/SortingStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/StringByLengthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/StringsStartWithATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/SumOfAllPosNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/evenNumbersSumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsContainingVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsContainingVowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/streamsAndLamdas/StringsContainingVowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/streamsAndLamdas/StringsContainingVowels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/StringsContainingVowelsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/StringsContainingVowelsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +57,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BankAccountAndFileReader.executor": "Run",
     "Application.CapitalizeAndSortStrings.executor": "Run",
+    "Application.FilereaderEX.executor": "Run",
     "Application.FilterStudentsByGPA.executor": "Run",
     "Application.anagramStrings.executor": "Run",
     "Application.arrayListToArray.executor": "Run",
@@ -48,12 +70,38 @@
     "Application.reverseEachWord.executor": "Run",
     "Application.rotateArrayLeft.executor": "Run",
     "Application.studentHashMap.executor": "Run",
+    "JUnit.AverageOfOddSquaresTest.executor": "Run",
+    "JUnit.AverageOfOddSquaresTest.testAverageOfOddSquaresNo.executor": "Run",
+    "JUnit.BankAccountTest.executor": "Run",
+    "JUnit.BankAccountTest.testInsufficientFundsException.executor": "Run",
+    "JUnit.BankAccountTest.testInvalidWithdrawalException.executor": "Run",
+    "JUnit.BankAccountTest.testSuccessfulWithdrawal.executor": "Run",
     "JUnit.CapitalizeAndSortStringsTest.executor": "Run",
     "JUnit.ConvertStringToIntegerTest.executor": "Run",
     "JUnit.ConvertStringToIntegerTest.testConvertToIntAlphaNumericInput.executor": "Run",
     "JUnit.FilterStudentsByGPATest.executor": "Run",
     "JUnit.FilterStudentsByGPATest.testRemoveStudentsBelowAverageGPA.executor": "Run",
+    "JUnit.MathOperationsTest.executor": "Run",
+    "JUnit.MathOperationsTest.testSumOfEmptyArray.executor": "Run",
+    "JUnit.MaxStringsTest.testFindMaxElement.executor": "Run",
+    "JUnit.MaxStringsTest.testFindMaxElementForEmpty.executor": "Run",
+    "JUnit.MaxStringsTest.testFindMaxElementForSame.executor": "Run",
+    "JUnit.RemoveDuplicateTest.TestFindDistinctNONumbers.executor": "Run",
+    "JUnit.RemoveDuplicateTest.TestFindDistinctNumbers.executor": "Run",
+    "JUnit.RemoveDuplicateTest.TestFindDistinctNumbersEmpty.executor": "Run",
+    "JUnit.SortingStringsTest.executor": "Run",
+    "JUnit.StringByLengthTest.executor": "Run",
+    "JUnit.StringByLengthTest.testGroupByLength.executor": "Run",
+    "JUnit.StringByLengthTest.testGroupByLengthForEmpty.executor": "Run",
+    "JUnit.StringByLengthTest.testGroupByLengthForSame.executor": "Run",
+    "JUnit.StringByLengthTest.testGroupByLengthForSpace.executor": "Run",
     "JUnit.StringsContainingVowelsTest.executor": "Run",
+    "JUnit.StringsContainingVowelsTest.testCountVowels.executor": "Run",
+    "JUnit.StringsStartWithATest.executor": "Run",
+    "JUnit.StringsStartWithATest.testFilterStringA.executor": "Run",
+    "JUnit.StringsStartWithATest.testFilterStringAEmpty.executor": "Run",
+    "JUnit.StringsStartWithATest.testFilterStringNoA.executor": "Run",
+    "JUnit.SumOfAllPosNumbersTest.executor": "Run",
     "JUnit.additionalProg in Maven_Src.executor": "Run",
     "JUnit.anagramStringsTest.executor": "Run",
     "JUnit.anagramStringsTest.testAreAnagrams.executor": "Coverage",
@@ -64,11 +112,19 @@
     "JUnit.arrayListTraversalTest.testArrayListTraversal.executor": "Run",
     "JUnit.arrayListTraversalTest.testTraverseArrayListUsingEnhancedForLoop.executor": "Run",
     "JUnit.arrayListTraversalTest.testTraverseArrayListUsingRegularForLoop.executor": "Run",
+    "JUnit.arrayLists in Maven_Src.executor": "Run",
     "JUnit.arraySumTest.executor": "Run",
     "JUnit.arraySumTest.testCalculateSum.executor": "Run",
+    "JUnit.arrays in Maven_Src.executor": "Run",
     "JUnit.characterCountMapTest.executor": "Run",
     "JUnit.characterCountMapTest.testCountingMap.executor": "Run",
     "JUnit.characterCountMapTest.teststringCountingMap.executor": "Run",
+    "JUnit.constructor_static_final in Maven_Src.executor": "Run",
+    "JUnit.customExceptions in Maven_Src.executor": "Run",
+    "JUnit.evenNumbersSumTest.executor": "Run",
+    "JUnit.evenNumbersSumTest.testSumOfEmptyListOddNumbers.executor": "Run",
+    "JUnit.evenNumbersSumTest.testSumOfNoOddNumbers.executor": "Run",
+    "JUnit.execptions in Maven_Src.executor": "Run",
     "JUnit.findFactorialTest.executor": "Run",
     "JUnit.findFactorialTest.testFactorialForNumber.executor": "Run",
     "JUnit.findTargetSumMapTest.executor": "Run",
@@ -76,6 +132,9 @@
     "JUnit.findTargetSumMapTest.testfindTargetfornoSol.executor": "Run",
     "JUnit.hashSetIterationTest.executor": "Run",
     "JUnit.hashSetIterationTest.testSetIterations.executor": "Run",
+    "JUnit.loopsconditionss in Maven_Src.executor": "Run",
+    "JUnit.mapList in Maven_Src.executor": "Run",
+    "JUnit.oops in Maven_Src.executor": "Run",
     "JUnit.palindromeCheckerTest.executor": "Run",
     "JUnit.palindromeStringTest.testPalindromeString.executor": "Run",
     "JUnit.removeDuplicateCharTest.executor": "Run",
@@ -95,8 +154,11 @@
     "JUnit.reverseEachWordTest.testReverseString.executor": "Run",
     "JUnit.rotationOfStringTest.executor": "Coverage",
     "JUnit.rotationOfStringTest.testIsRotation.executor": "Run",
+    "JUnit.setLists in Maven_Src.executor": "Run",
     "JUnit.sortHashMapTest.executor": "Run",
     "JUnit.sortHashMapTest.testSortHashMapEmptyByKey.executor": "Run",
+    "JUnit.streamsAndLamdas in Maven_Src.executor": "Run",
+    "JUnit.strings in Maven_Src.executor": "Run",
     "JUnit.studentHashMapTest.executor": "Run",
     "JUnit.studentHashMapTest.testgetStudentByName.executor": "Run",
     "JUnit.studentTest.executor": "Coverage",
@@ -118,43 +180,47 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="customExceptions" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nandi\OneDrive\Desktop\Marketing\Java\Maven_Src\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ConvertStringToIntegerTest">
-    <configuration name="ConvertStringToIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CapitalizeAndSortStringsTest.testCapitalizeAndSortStringsEmpty">
+    <configuration name="CapitalizeAndSortStringsTest.testCapitalizeAndSortStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="execptions.*" />
+          <option name="PATTERN" value="streamsAndLamdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="execptions" />
-      <option name="MAIN_CLASS_NAME" value="execptions.ConvertStringToIntegerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConvertStringToIntegerTest.testConvertToIntAlphaNumericInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Maven_Src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="execptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="execptions" />
-      <option name="MAIN_CLASS_NAME" value="execptions.ConvertStringToIntegerTest" />
-      <option name="METHOD_NAME" value="testConvertToIntAlphaNumericInput" />
+      <option name="PACKAGE_NAME" value="streamsAndLamdas" />
+      <option name="MAIN_CLASS_NAME" value="streamsAndLamdas.CapitalizeAndSortStringsTest" />
+      <option name="METHOD_NAME" value="testCapitalizeAndSortStrings" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringsContainingVowelsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CapitalizeAndSortStringsTest.testCapitalizeAndSortStringsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streamsAndLamdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="streamsAndLamdas" />
+      <option name="MAIN_CLASS_NAME" value="streamsAndLamdas.CapitalizeAndSortStringsTest" />
+      <option name="METHOD_NAME" value="testCapitalizeAndSortStringsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringsContainingVowelsTest.testCountVowels" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Src" />
       <extension name="coverage">
         <pattern>
@@ -164,41 +230,47 @@
       </extension>
       <option name="PACKAGE_NAME" value="streamsAndLamdas" />
       <option name="MAIN_CLASS_NAME" value="streamsAndLamdas.StringsContainingVowelsTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="testCountVowels" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="additionalProg in Maven_Src" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Maven_Src" />
-      <option name="TEST_OBJECT" value="directory" />
-      <dir value="$PROJECT_DIR$/src/test/java/additionalProg" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="swapCaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="loopsconditionss in Maven_Src" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Src" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="additionalProg.*" />
+          <option name="PATTERN" value="loopsconditionss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="additionalProg" />
-      <option name="MAIN_CLASS_NAME" value="additionalProg.swapCaseTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="loopsconditionss" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oops in Maven_Src" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oops" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ConvertStringToIntegerTest" />
-        <item itemvalue="JUnit.ConvertStringToIntegerTest.testConvertToIntAlphaNumericInput" />
-        <item itemvalue="JUnit.StringsContainingVowelsTest" />
-        <item itemvalue="JUnit.additionalProg in Maven_Src" />
-        <item itemvalue="JUnit.swapCaseTest" />
+        <item itemvalue="JUnit.CapitalizeAndSortStringsTest.testCapitalizeAndSortStringsEmpty" />
+        <item itemvalue="JUnit.CapitalizeAndSortStringsTest.testCapitalizeAndSortStrings" />
+        <item itemvalue="JUnit.StringsContainingVowelsTest.testCountVowels" />
+        <item itemvalue="JUnit.oops in Maven_Src" />
+        <item itemvalue="JUnit.loopsconditionss in Maven_Src" />
       </list>
     </recent_temporary>
   </component>
@@ -227,6 +299,29 @@
           <url>file://$PROJECT_DIR$/src/test/java/strings/anagramStringsTest.java</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/customExceptions/FilereaderEX.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/streamsAndLamdas/SumOfAllPosNumbersTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/streamsAndLamdas/StringByLengthTest.java</url>
+          <line>24</line>
+          <properties class="streamsAndLamdas.StringByLengthTest" method="testGroupByLengthForSame">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
