@@ -5,14 +5,14 @@ import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 
-public class evenNumbersSumTest {
+public class DoubleOddNumbersTest {
     @Test
     public void testSumOfOddNumbers() {
-        List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+        List<Integer> numbers = List.of(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
 
-        List<Integer> expectedResult = Arrays.asList(2, 6, 10, 14, 18);
+        List<Integer> expectedResult = List.of(4, 8, 12, 16, 20);
 
-        List<Integer> result = evenNumbersSum.SumOfOddNumbers(numbers);
+        List<Integer> result = DoubleOddNumbers.SumOfOddNumbers(numbers);
 
         assertEquals(expectedResult, result);
     }
@@ -23,11 +23,11 @@ public class evenNumbersSumTest {
 
     @Test
     public void testSumOfNoOddNumbers() {
-        List<Integer> numbers = Arrays.asList( 2,4,6, 8, 10);
+        List<Integer> numbers = Arrays.asList( 1,3,5,7,9);
 
         List<Integer> expectedResult = Arrays.asList();
 
-        List<Integer> result = evenNumbersSum.SumOfOddNumbers(numbers);
+        List<Integer> result = DoubleOddNumbers.SumOfOddNumbers(numbers);
 
         assertEquals(expectedResult, result);
     }
@@ -40,7 +40,7 @@ public class evenNumbersSumTest {
 
         List<Integer> expectedResult = Arrays.asList();
 
-        List<Integer> result = evenNumbersSum.SumOfOddNumbers(numbers);
+        List<Integer> result = DoubleOddNumbers.SumOfOddNumbers(numbers);
 
         assertEquals(expectedResult, result);
     }

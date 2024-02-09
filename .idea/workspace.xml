@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="fc76a63f-f13b-4bb4-b838-560d0376a1f8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsStartWithA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsStartWithA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/StringsStartWithATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/StringsStartWithATest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/evenNumbersSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/DoubleOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/evenNumbersSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/DoubleOddNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/streamsAndLamdas/evenNumbersSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/streamsAndLamdas/evenNumbersSumTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +60,7 @@
     "JUnit.CapitalizeAndSortStringsTest.testCapitalizeAndSortStringsEmpty.executor": "Run",
     "JUnit.ConvertStringToIntegerTest.executor": "Run",
     "JUnit.ConvertStringToIntegerTest.testConvertToIntAlphaNumericInput.executor": "Run",
+    "JUnit.DoubleOddNumbersTest.executor": "Run",
     "JUnit.FilterStudentsByGPATest.executor": "Run",
     "JUnit.FilterStudentsByGPATest.testRemoveStudentsBelowAverageGPA.executor": "Run",
     "JUnit.MathOperationsTest.executor": "Run",
@@ -168,8 +171,8 @@
       <recent name="C:\Users\nandi\OneDrive\Desktop\Marketing\Java\Maven_Src\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StringsStartWithATest">
-    <configuration name="CapitalizeAndSortStringsTest.testCapitalizeAndSortStringsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DoubleOddNumbersTest">
+    <configuration name="DoubleOddNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven_Src" />
       <extension name="coverage">
         <pattern>
@@ -178,9 +181,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="streamsAndLamdas" />
-      <option name="MAIN_CLASS_NAME" value="streamsAndLamdas.CapitalizeAndSortStringsTest" />
-      <option name="METHOD_NAME" value="testCapitalizeAndSortStringsEmpty" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="streamsAndLamdas.DoubleOddNumbersTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -249,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DoubleOddNumbersTest" />
         <item itemvalue="JUnit.StringsStartWithATest" />
         <item itemvalue="JUnit.MathOperationsTest" />
         <item itemvalue="JUnit.MathOperationsTest.testSumOfNegNum" />
         <item itemvalue="JUnit.MathOperationsTest.testSumOfArray" />
-        <item itemvalue="JUnit.CapitalizeAndSortStringsTest.testCapitalizeAndSortStringsEmpty" />
       </list>
     </recent_temporary>
   </component>
