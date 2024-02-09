@@ -4,20 +4,22 @@ import static org.junit.Assert.*;
 public class MathOperationsTest {
 
     @Test
-    public void testSumOfArray(){
-        int[] numbers={1,2,3,4,5,6,7,8};
-        int result=MathOperations.NumbersSum(numbers);
-        int expected = 36;
+    public void testSumOfNum(){
+        int number1=23;
+        int number2 = 34;
+        int result=MathOperations.NumbersSum(number1,number2);
+        int expected = 57;
         assertEquals(result,expected);
     }
 
 
 
     @Test
-    public void testSumOfEmptyArray(){
-        int[] numbers={};
-        int result=MathOperations.NumbersSum(numbers);
-        int expected = 0;
+    public void testSumOfNegNum(){
+        int number1=-2;
+        int number2=10;
+        int result=MathOperations.NumbersSum(number1,number2);
+        int expected = 8;
         assertEquals(result,expected);
     }
 
