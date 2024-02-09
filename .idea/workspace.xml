@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc76a63f-f13b-4bb4-b838-560d0376a1f8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/MathOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/MathOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/streamsAndLamdas/MathOperationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/CapitalizeAndSortStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/CapitalizeAndSortStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/MaxStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/MaxStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsContainingVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streamsAndLamdas/StringsContainingVowels.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
